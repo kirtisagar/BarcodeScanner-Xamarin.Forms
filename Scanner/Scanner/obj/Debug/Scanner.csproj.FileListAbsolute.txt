@@ -1,0 +1,10 @@
+E:\KirtiWork\Xhackers\BarcodeScanner\Scanner\Scanner\obj\Debug\Scanner.csprojResolveAssemblyReference.cache
+E:\KirtiWork\Xhackers\BarcodeScanner\Scanner\Scanner\obj\Debug\ScanPage.xaml.g.cs
+E:\KirtiWork\Xhackers\BarcodeScanner\Scanner\Scanner\bin\Debug\Scanner.dll
+E:\KirtiWork\Xhackers\BarcodeScanner\Scanner\Scanner\bin\Debug\Scanner.pdb
+E:\KirtiWork\Xhackers\BarcodeScanner\Scanner\Scanner\bin\Debug\Xamarin.Forms.Core.dll
+E:\KirtiWork\Xhackers\BarcodeScanner\Scanner\Scanner\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\KirtiWork\Xhackers\BarcodeScanner\Scanner\Scanner\bin\Debug\Xamarin.Forms.Core.xml
+E:\KirtiWork\Xhackers\BarcodeScanner\Scanner\Scanner\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\KirtiWork\Xhackers\BarcodeScanner\Scanner\Scanner\obj\Debug\Scanner.dll
+E:\KirtiWork\Xhackers\BarcodeScanner\Scanner\Scanner\obj\Debug\Scanner.pdb

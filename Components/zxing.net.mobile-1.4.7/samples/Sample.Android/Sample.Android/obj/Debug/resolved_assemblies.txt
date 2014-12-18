@@ -1,0 +1,5 @@
+E:\KirtiWork\Xhackers\BarcodeScanner\Components\zxing.net.mobile-1.4.7\samples\Sample.Android\Sample.Android\bin\Debug\ZXingSampleAndroid.dll
+E:\KirtiWork\Xhackers\BarcodeScanner\Components\zxing.net.mobile-1.4.7\samples\Sample.Android\packages\Xamarin.Android.Support.v13.20.0.0.4\lib\MonoAndroid32\Xamarin.Android.Support.v13.dll
+E:\KirtiWork\Xhackers\BarcodeScanner\Components\zxing.net.mobile-1.4.7\samples\Sample.Android\packages\Xamarin.Android.Support.v4.20.0.0.4\lib\MonoAndroid32\Xamarin.Android.Support.v4.dll
+E:\KirtiWork\Xhackers\BarcodeScanner\Components\zxing.net.mobile-1.4.7\lib\android\zxing.monoandroid.dll
+E:\KirtiWork\Xhackers\BarcodeScanner\Components\zxing.net.mobile-1.4.7\lib\android\ZXing.Net.Mobile.dll
