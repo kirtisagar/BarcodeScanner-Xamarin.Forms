@@ -11,7 +11,7 @@ namespace Scanner
     {
         public static Page GetMainPage()
         {
-			return new NavigationPage (new ScanPage ());
+			return new NavigationPage (new ScannerPage ());
         }
     }
 }

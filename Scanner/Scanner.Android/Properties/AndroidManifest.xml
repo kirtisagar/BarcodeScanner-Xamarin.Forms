@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-	<uses-sdk android:minSdkVersion="15" android:targetSdkVersion="19" />
-	<application></application>
-		<uses-permission android:name="android.permission.VIBRATE" />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.BarcodeScanner" android:versionCode="1" android:versionName="1.0">
+	<uses-sdk android:minSdkVersion="15" />
+	<application android:label="BarCode Scanner" android:icon="@drawable/icon"></application>
+	<uses-permission android:name="android.permission.VIBRATE" />
 	<uses-permission android:name="android.permission.FLASHLIGHT" />
 	<uses-permission android:name="android.permission.CAMERA" />
 	<uses-permission android:name="android.permission.INTERNET" />

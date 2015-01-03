@@ -1,12 +1,12 @@
-E:\KirtiWork\Xhackers\BarcodeScanner\Scanner\Scanner.Android\bin\Debug\Scanner.Android.dll
-E:\KirtiWork\Xhackers\BarcodeScanner\packages\Xamarin.Forms.1.2.3.6257\lib\MonoAndroid10\FormsViewGroup.dll
-E:\KirtiWork\Xhackers\BarcodeScanner\Scanner\Scanner\bin\Debug\Scanner.dll
-E:\KirtiWork\Xhackers\BarcodeScanner\packages\Xamarin.Android.Support.v4.21.0.0.0\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll
-E:\KirtiWork\Xhackers\BarcodeScanner\packages\Xamarin.Forms.1.2.3.6257\lib\MonoAndroid10\Xamarin.Forms.Core.dll
-E:\KirtiWork\Xhackers\BarcodeScanner\packages\Xamarin.Forms.1.2.3.6257\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
-E:\KirtiWork\Xhackers\BarcodeScanner\packages\Xamarin.Forms.1.2.3.6257\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
-E:\KirtiWork\Xhackers\BarcodeScanner\Components\zxing.net.mobile-1.4.7\lib\android\zxing.monoandroid.dll
-E:\KirtiWork\Xhackers\BarcodeScanner\Components\zxing.net.mobile-1.4.7\lib\android\ZXing.Net.Mobile.dll
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\Scanner\Scanner.Android\bin\Debug\Scanner.Android.dll
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\packages\Xamarin.Forms.1.3.0.6292\lib\MonoAndroid10\FormsViewGroup.dll
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\Scanner\Scanner\bin\Debug\Scanner.dll
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\packages\Xamarin.Android.Support.v4.21.0.3.0\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\packages\Xamarin.Forms.1.3.0.6292\lib\MonoAndroid10\Xamarin.Forms.Core.dll
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\packages\Xamarin.Forms.1.3.0.6292\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\packages\Xamarin.Forms.1.3.0.6292\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\Components\zxing.net.mobile-1.4.7\lib\android\zxing.monoandroid.dll
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\Components\zxing.net.mobile-1.4.7\lib\android\ZXing.Net.Mobile.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.Concurrent.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ComponentModel.Annotations.dll

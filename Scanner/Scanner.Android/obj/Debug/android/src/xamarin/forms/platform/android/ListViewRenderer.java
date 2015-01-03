@@ -13,7 +13,7 @@ public class ListViewRenderer
 			"n_onDetachedFromWindow:()V:GetOnDetachedFromWindowHandler\n" +
 			"n_onLayout:(ZIIII)V:GetOnLayout_ZIIIIHandler\n" +
 			"";
-		mono.android.Runtime.register ("Xamarin.Forms.Platform.Android.ListViewRenderer, Xamarin.Forms.Platform.Android, Version=1.2.3.0, Culture=neutral, PublicKeyToken=null", ListViewRenderer.class, __md_methods);
+		mono.android.Runtime.register ("Xamarin.Forms.Platform.Android.ListViewRenderer, Xamarin.Forms.Platform.Android, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null", ListViewRenderer.class, __md_methods);
 	}
 
 
@@ -21,7 +21,7 @@ public class ListViewRenderer
 	{
 		super (p0, p1);
 		if (getClass () == ListViewRenderer.class)
-			mono.android.TypeManager.Activate ("Xamarin.Forms.Platform.Android.ListViewRenderer, Xamarin.Forms.Platform.Android, Version=1.2.3.0, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0, p1 });
+			mono.android.TypeManager.Activate ("Xamarin.Forms.Platform.Android.ListViewRenderer, Xamarin.Forms.Platform.Android, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0, p1 });
 	}
 
 
@@ -29,7 +29,7 @@ public class ListViewRenderer
 	{
 		super (p0);
 		if (getClass () == ListViewRenderer.class)
-			mono.android.TypeManager.Activate ("Xamarin.Forms.Platform.Android.ListViewRenderer, Xamarin.Forms.Platform.Android, Version=1.2.3.0, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0 });
+			mono.android.TypeManager.Activate ("Xamarin.Forms.Platform.Android.ListViewRenderer, Xamarin.Forms.Platform.Android, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0 });
 	}
 
 
@@ -37,7 +37,7 @@ public class ListViewRenderer
 	{
 		super (p0, p1, p2);
 		if (getClass () == ListViewRenderer.class)
-			mono.android.TypeManager.Activate ("Xamarin.Forms.Platform.Android.ListViewRenderer, Xamarin.Forms.Platform.Android, Version=1.2.3.0, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:System.Int32, mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e", this, new java.lang.Object[] { p0, p1, p2 });
+			mono.android.TypeManager.Activate ("Xamarin.Forms.Platform.Android.ListViewRenderer, Xamarin.Forms.Platform.Android, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:System.Int32, mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e", this, new java.lang.Object[] { p0, p1, p2 });
 	}
 
 

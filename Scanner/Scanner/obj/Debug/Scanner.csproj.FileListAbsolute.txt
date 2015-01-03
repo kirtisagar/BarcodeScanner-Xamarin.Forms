@@ -17,3 +17,12 @@ D:\Kirti\Up\BarcodeScanner-Xamarin.Forms\Scanner\Scanner\bin\Debug\Xamarin.Forms
 D:\Kirti\Up\BarcodeScanner-Xamarin.Forms\Scanner\Scanner\obj\Debug\ScanPage.xaml.g.cs
 D:\Kirti\Up\BarcodeScanner-Xamarin.Forms\Scanner\Scanner\obj\Debug\Scanner.dll
 D:\Kirti\Up\BarcodeScanner-Xamarin.Forms\Scanner\Scanner\obj\Debug\Scanner.pdb
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\Scanner\Scanner\bin\Debug\Scanner.dll
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\Scanner\Scanner\bin\Debug\Scanner.pdb
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\Scanner\Scanner\bin\Debug\Xamarin.Forms.Core.dll
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\Scanner\Scanner\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\Scanner\Scanner\bin\Debug\Xamarin.Forms.Core.xml
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\Scanner\Scanner\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\Scanner\Scanner\obj\Debug\ScannerPage.xaml.g.cs
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\Scanner\Scanner\obj\Debug\Scanner.dll
+E:\KirtiWork\Xhackers\NewScanner\BarcodeScanner-Xamarin.Forms\Scanner\Scanner\obj\Debug\Scanner.pdb
